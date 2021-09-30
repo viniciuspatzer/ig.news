@@ -6,8 +6,17 @@
 
 <div align="center"> 
   <img src="./.github/home.png" alt="home" />
+
+  ---
+
   <img src="./.github/posts.png" alt="posts" />
+  
+  ---
+
   <img src="./.github/preview.png" alt="preview" />
+  
+  ---
+
   <img src="./.github/post.png" alt="post" />
 </div>
 
